@@ -108,11 +108,3 @@ TX packets: 800 errors:0 dropped:0 overruns:0 carrier:0
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## FAQ
-- Make sure to replace https://github.com/yourusername/your-repository.git with the actual URL of your GitHub repository.
-
-- The example outputs in the README file are illustrative and will vary based on your system's actual resource usage.
-
-This README file should help users understand the functionality of your script and how to use it effectively.
