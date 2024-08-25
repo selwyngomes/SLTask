@@ -29,7 +29,7 @@ sellyscript.sh is a simple Bash script designed to monitor various system resour
 1. Clone the Repository: If you haven't already, clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/selwyngomes/SLTask.git
+  git clone https://github.com/selwyngomes/sellyscript.sh.git
   cd your-repository  
 ```
 2. Make the Script Executable: Before running the script, ensure it is executable by running:
